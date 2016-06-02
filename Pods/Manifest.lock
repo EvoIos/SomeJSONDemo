@@ -1,0 +1,18 @@
+PODS:
+  - Argo (3.0.1)
+  - Curry (2.2.0)
+  - MJExtension (3.0.10)
+
+DEPENDENCIES:
+  - Argo (~> 3.0.1)
+  - Curry (~> 2.2.0)
+  - MJExtension (~> 3.0.10)
+
+SPEC CHECKSUMS:
+  Argo: 22c5d62b7967020a641468c91dc9488bea9523b8
+  Curry: c22d80fff7f5a4b1bbd531455c3e2dbb099658a3
+  MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
+
+PODFILE CHECKSUM: 48648eed1139819fac6b7da788c607b985a04988
+
+COCOAPODS: 1.0.0
